@@ -3,9 +3,9 @@ We show how to do things in each language so that you can choose which language 
 
 ---
 
-# getYear
+![bg](src/media/textures/bg/lua_001_cropped.png)
 
-## [JS](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library/blob/main/src/js/date/getYear.js) | [PY](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library/blob/main/src/py/date/getYear.py) | [LUA](https://github.com/ChristopherAndrewTopalian/CATopalian_Lua_Library/blob/main/src/lua/date/getYear.lua)
+# getYear [JS](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library/blob/main/src/js/date/getYear.js) | [PY](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library/blob/main/src/py/date/getYear.py) | [LUA](https://github.com/ChristopherAndrewTopalian/CATopalian_Lua_Library/blob/main/src/lua/date/getYear.lua)
 
 ### How to Download this App
 1. Click the green Code Button on this github page
