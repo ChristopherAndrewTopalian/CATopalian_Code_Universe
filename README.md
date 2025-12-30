@@ -3,13 +3,13 @@ We show how to do things in each language so that you can choose which language 
 
 ---
 
-![bg](src/media/textures/bg/code_001_cropped.png)
+![bg](src/media/textures/bg/code_001_cropped.png) 
 
 ---
 
 # DATE
 
-# getYear [JS](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library/blob/main/src/js/date/getYear.js) | [PY](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library/blob/main/src/py/date/getYear.py) | [LUA](https://github.com/ChristopherAndrewTopalian/CATopalian_Lua_Library/blob/main/src/lua/date/getYear.lua)
+# getYear [JS](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library/blob/main/src/js/date/getYear.js) | [PY](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library/blob/main/src/py/date/getYear.py) | [LUA](https://github.com/ChristopherAndrewTopalian/CATopalian_Lua_Library/blob/main/src/lua/date/getYear.lua) | [RB](https://github.com/ChristopherAndrewTopalian/CATopalian_Ruby_Library/blob/main/src/rb/date/getYear.rb) | [C](https://github.com/ChristopherAndrewTopalian/CATopalian_C_Library/blob/main/src/c/date/getYear.c)
 
 ### How to Download this App
 1. Click the green Code Button on this github page
